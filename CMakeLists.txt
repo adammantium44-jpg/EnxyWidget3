@@ -1,6 +1,4 @@
-if(NOT DEFINED ENV{COMMONLIB_SSE_FOLDER})
-  message(FATAL_ERROR "Missing COMMONLIB_SSE_FOLDER environment variable")
-endif()
+
 
 cmake_minimum_required(VERSION 3.21)
 
