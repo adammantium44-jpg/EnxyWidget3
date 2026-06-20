@@ -21,7 +21,6 @@ add_commonlibsse_plugin(${PROJECT_NAME}
     src/plugin.cpp  
     src/Config.cpp  
     src/Ui.cpp  
-    src/Widget.cpp  
 )
 
 target_include_directories(${PROJECT_NAME} PRIVATE include)
